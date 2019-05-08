@@ -1,0 +1,62 @@
+.p-20 {
+    padding: 20px;
+}
+
+.dark-mask.mask-1 {
+    background: rgba(23, 156, 189, 0.9);
+}
+
+.dark-mask.mask-2 {
+    background: rgba(249, 171, 73, 0.9);
+}
+
+.dark-mask.mask-3 {
+    background: rgba(53, 185, 128, 0.9);
+}
+
+.dark-mask.mask-4 {
+    background: rgba(241, 87, 75, 0.9);
+}
+
+.dark-mask.mask-5 {
+    background: rgba(210, 52, 147, 0.9);
+}
+
+.background-brick, #heading-breadcrumbs {
+    background: url("http://techtrain.microchip.com/masters/assets/img/brick.jpg") center center repeat;
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+}
+
+.home-carousel li, .home-carousel p {
+    text-transform: none !important;
+}
+
+.text-1 {
+    color: rgba(249, 171, 73, 1) !important;
+}
+
+.text-2 {
+    color: rgba(53, 185, 128, 1) !important;
+}
+
+.text-3 {
+    color: rgba(241, 87, 75, 1) !important;
+}
+
+.text-4 {
+    color: rgba(23, 156, 189, 1) !important;
+}
+
+.text-5 {
+    color: rgba(210, 52, 147, 1) !important;
+}
+
+.text-6 {
+    color: rgba(216, 225, 38, 1) !important;
+}
+
+.package {
+    padding-bottom: 0px !important;
+}
+
