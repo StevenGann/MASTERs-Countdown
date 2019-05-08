@@ -122,7 +122,15 @@ textarea {
     background: white;
     border: 1px solid grey;
     padding-top: 1em;
-    padding-bottom: 5em;
+    padding-bottom: 2em;
+}
+
+.logo-paint {
+    mix-blend-mode: color-burn !important;
+}
+
+.just-brick {
+    background: url("http://techtrain.microchip.com/masters/assets/img/brick.jpg") center center repeat;
 }
 
 @media (max-width: 767px) {                  
