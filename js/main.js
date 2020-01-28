@@ -1,4 +1,4 @@
-var endtime = 'August 5 2019 23:59:59 GMT-0700';
+var endtime = 'August 9 2020 23:59:59 GMT-0700';
 
 function pad(num, size) {
     var s = num+"";
